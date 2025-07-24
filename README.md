@@ -1,16 +1,14 @@
 # Tinder Clone – Frontend
 
-A simplified swipe-and-match app inspired by Tinder. Built with React and Firebase to showcase modern UI design, real-time interactivity, and basic matching logic.
+A simplified swipe-and-match app inspired by Tinder. Built with React to showcase modern UI design, real-time interactivity, and basic matching logic.
 
 ## 🚀 Features
-- User authentication with Firebase Auth
 - Swipe left/right to like or skip
 - Real-time updates and dynamic profile rendering
 - Component-based architecture using React
 
 ## 🛠 Tech Stack
 - React
-- Firebase Auth
 - JavaScript / CSS
 
 ## 🎯 Purpose
